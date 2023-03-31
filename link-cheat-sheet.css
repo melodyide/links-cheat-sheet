@@ -1,0 +1,91 @@
+*{
+  font-family: Futura, Verdana;
+  font-size: 16px;
+}
+
+body {
+    background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/06/Download-Link-Photos.jpg');
+    background-size: 100%;
+}
+
+table {
+  border: 1px solid black;
+  margin: 20px auto;
+}
+
+tr {
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid black;
+}
+
+p {
+  text-align: center;
+}
+
+h1 {
+  font-size: 32px;
+  text-align: center;
+  font-family: fangsong;
+  font-weight: bold;
+}
+
+h3 {
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  background-color: steelblue;
+  color: white;
+}
+
+.tablesec {
+  background-color: steelblue;
+}
+
+.tag {
+  font-weight: bold;
+  background-color: skyblue;
+  color: darkblue;
+  padding: 5px;
+}
+
+.func {
+  background-color: paleturquoise;
+  padding: 5px;
+}
+
+.default {
+  background-color: paleturquoise;
+  padding: 5px;
+}
+
+#underlined {
+  text-decoration: underline;
+}
+
+#underlined2 {
+  text-decoration: underline;
+}
+
+#purple{
+  color: purple;
+}
+
+#outlined {
+  border: black solid 1px;
+  padding: 2px;
+}
+
+#note {
+  font-size: 14px;
+}
+
+#red {
+  color: red;
+}
+
+#pointer {
+  height: 20px;
+}
